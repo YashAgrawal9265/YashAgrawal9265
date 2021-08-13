@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="./static/Profile.gif" height="175px"/></a>
+<a href="#"><div style="text-align:center"><img width="45%" height="35%" src="./static/Profile.gif" height="175px"/></div></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Agrawal</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
 
 
 ## 🙋‍♂️ About Me

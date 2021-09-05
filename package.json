@@ -1,0 +1,23 @@
+{
+  "name": "gitProfile",
+  "version": "1.0.0",
+  "description": "<a href=\"#\"><p align=\"center\"><img width=\"45%\" height=\"35%\" src=\"./static/Profile.gif\" height=\"175px\"/></p></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashAgrawal9265/YashAgrawal9265.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashAgrawal9265/YashAgrawal9265/issues"
+  },
+  "homepage": "https://github.com/YashAgrawal9265/YashAgrawal9265#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

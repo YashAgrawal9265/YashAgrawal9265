@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
--  👨‍💻  I’m currently working as a student developer at Wikimedia
+-  👨‍💻  I’m currently pursuing a Master's in Computer Science.
   
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Full-Stack-Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
